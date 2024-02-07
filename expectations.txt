@@ -3,3 +3,5 @@ Bennard John I. Simbulan
 Exercise 1
 
 As for the first exercise, we have been taught Git and GitHub. I am currently overwhelemed because of the new codes and interactions with other users. With these, I expect to learn more about GitHub and how to properly collaborate with other developers using GitHub. I know that I am currently struggling with the syntax but I hope that I will be efficient and fully understand Git and GitHub.
+
+Me too, I agree -Shack

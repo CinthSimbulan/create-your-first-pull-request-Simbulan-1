@@ -1,1 +1,1 @@
-# create-your-first-pull-request-Simbulan-1
+# We learned to create a local repository as well as push that local repository to my GitHub remote repository. Then, I cloned his repository on my local machine to do some changes and add a commit on it. After, I pushed my changes to his repository in which he pulled those changes to his repository. I did the same by pulling his changes to my repository.
